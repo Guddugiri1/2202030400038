@@ -16,3 +16,6 @@ https://github.com/Guddugiri1/2202030400038/assets/129716426/307f6e56-06d7-41c5-
 Assignment 2
 Task-1: Develop a website using HTML and CSS of screens designed in
 assigment-1 task-2. Upload code in assignment_2 folder.
+
+
+![home page](https://github.com/Guddugiri1/2202030400038/assets/129716426/737be4ef-29d6-4e59-826e-3d84362b8f8c)

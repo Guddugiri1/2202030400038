@@ -9,6 +9,9 @@ Task-2: Prepare a prototype design of a website in Figma which contains at least
 Task 2 ----Click on Below Given Link 
 https://www.figma.com/file/tKb2mRIIu8NfzGNncpHORH/Untitled?type=design&node-id=0%3A1&mode=design&t=ZSnIWOl3wYefJDgc-1
 
+![figma](https://github.com/Guddugiri1/2202030400038/assets/129716426/dedc977a-e23b-4530-9906-a9d306c591da)
+
+
 https://github.com/Guddugiri1/2202030400038/assets/129716426/307f6e56-06d7-41c5-8a9f-cbf879106161
 
 

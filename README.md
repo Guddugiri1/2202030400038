@@ -17,5 +17,8 @@ Assignment 2
 Task-1: Develop a website using HTML and CSS of screens designed in
 assigment-1 task-2. Upload code in assignment_2 folder.
 
+Check Second Task Portfolio Developed Using HTML, CSS & JS Check Given Below Link  
+https://guddugiriportfolio.netlify.app/
+
 
 ![home page](https://github.com/Guddugiri1/2202030400038/assets/129716426/737be4ef-29d6-4e59-826e-3d84362b8f8c)
